@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"JakubAnimNodes": "UnrealEditor-JakubAnimNodes.dll",
+		"JakubAnimNodesTool": "UnrealEditor-JakubAnimNodesTool.dll"
+	}
+}

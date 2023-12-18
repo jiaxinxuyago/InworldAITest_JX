@@ -1,0 +1,33 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\helpfulfunctions\\module.helpfulfunctions.2_of_3.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\intermediate\\build\\win64\\x64\\testdoarmoureditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\helpfulfunctions\\definitions.helpfulfunctions.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\cpp_dynamicclimbingcomponent.gen.cpp",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_dynamicclimbingcomponent.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\als_structuresandenumscpp.h",
+            "d:\\program files\\games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\datatable.h",
+            "d:\\program files\\games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\datatableutils.h",
+            "d:\\program files\\games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\datatable.generated.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\als_structuresandenumscpp.generated.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\cpp_dynamicclimbingcomponent.generated.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\cpp_falldamageandsliding.gen.cpp",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_falldamageandsliding.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\cpp_falldamageandsliding.generated.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\cpp_matchedmontagecomponent.gen.cpp",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\cpp_matchedmontagecomponent.h",
+            "d:\\program files\\games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\curves\\curvevector.h",
+            "d:\\program files\\games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\curvevector.generated.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\cpp_matchedmontagecomponent.generated.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\helpfulfunctions.init.gen.cpp",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\helpfulfunctionsbplibrary.gen.cpp",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\helpfulfunctionsbplibrary.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\helpfulfunctionsbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

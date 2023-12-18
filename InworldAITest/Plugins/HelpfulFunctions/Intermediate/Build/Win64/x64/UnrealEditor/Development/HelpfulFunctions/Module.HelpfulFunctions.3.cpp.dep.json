@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue - projects\\ue5.2\\testdoarmour 5.2 5.3\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\helpfulfunctions\\module.helpfulfunctions.3.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue - projects\\ue5.2\\testdoarmour 5.2 5.3\\intermediate\\build\\win64\\x64\\testdoarmoureditor\\development\\unrealed\\sharedpch.unrealed.cpp17.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2 5.3\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\helpfulfunctions\\definitions.helpfulfunctions.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2 5.3\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\helpfulfunctions.init.gen.cpp",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2 5.3\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\helpfulfunctionsbplibrary.gen.cpp",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2 5.3\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\helpfulfunctionsbplibrary.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2 5.3\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\als_structuresandenumscpp.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2 5.3\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\als_structuresandenumscpp.generated.h",
+            "d:\\ue - projects\\ue5.2\\testdoarmour 5.2 5.3\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealeditor\\inc\\helpfulfunctions\\uht\\helpfulfunctionsbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

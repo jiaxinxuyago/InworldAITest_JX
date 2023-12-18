@@ -1,0 +1,41 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.HelpfulFunctions.1_of_4.cpp.obj": [
+			"ALS_BaseAI_CharacterCpp.gen.cpp.obj",
+			"ALS_BaseComponentsInterfaceCpp.gen.cpp.obj",
+			"ALS_HumanAI_ControllerCpp.gen.cpp.obj",
+			"ALS_HumanAI_InterfaceCpp.gen.cpp.obj",
+			"ALS_StructuresAndEnumsCpp.gen.cpp.obj",
+			"Cpp_CoverSystemV2.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.2_of_4.cpp.obj": [
+			"Cpp_DynamicClimbingComponent.gen.cpp.obj",
+			"Cpp_FallDamageAndSliding.gen.cpp.obj",
+			"Cpp_LadderClimbingComponent.gen.cpp.obj",
+			"Cpp_MatchedMontageComponent.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.3_of_4.cpp.obj": [
+			"HelpfulFunctions.init.gen.cpp.obj",
+			"HelpfulFunctionsBPLibrary.gen.cpp.obj"
+		],
+		"Module.HelpfulFunctions.4_of_4.cpp.obj": [
+			"JacobMotionWarpingComponent.gen.cpp.obj",
+			"JakubW_ASyncFunctions.gen.cpp.obj",
+			"ALS_BaseAI_CharacterCpp.cpp.obj",
+			"ALS_BaseComponentsInterfaceCpp.cpp.obj",
+			"ALS_HumanAI_ControllerCpp.cpp.obj",
+			"ALS_HumanAI_InterfaceCpp.cpp.obj",
+			"ALS_StructuresAndEnumsCpp.cpp.obj",
+			"Cpp_CoverSystemV2.cpp.obj",
+			"Cpp_DynamicClimbingComponent.cpp.obj",
+			"Cpp_FallDamageAndSliding.cpp.obj",
+			"Cpp_LadderClimbingComponent.cpp.obj",
+			"Cpp_MatchedMontageComponent.cpp.obj",
+			"HelpfulFunctions.cpp.obj",
+			"HelpfulFunctionsBPLibrary.cpp.obj",
+			"JacobMotionWarpingComponent.cpp.obj",
+			"JakubW_ASyncFunctions.cpp.obj"
+		]
+	}
+}

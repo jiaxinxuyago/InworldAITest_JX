@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HelpfulFunctions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE - Projects\UE5.2\TestDoArmour 5.2\Intermediate\Build\Win64\x64\TestDoArmourEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\UE - Projects\UE5.2\TestDoArmour 5.2\Plugins\HelpfulFunctions\Intermediate\Build\Win64\x64\UnrealEditor\Development\HelpfulFunctions\Module.HelpfulFunctions.1_of_3.cpp.obj"
+"D:\UE - Projects\UE5.2\TestDoArmour 5.2\Plugins\HelpfulFunctions\Intermediate\Build\Win64\x64\UnrealEditor\Development\HelpfulFunctions\Module.HelpfulFunctions.2_of_3.cpp.obj"
+"D:\UE - Projects\UE5.2\TestDoArmour 5.2\Plugins\HelpfulFunctions\Intermediate\Build\Win64\x64\UnrealEditor\Development\HelpfulFunctions\Module.HelpfulFunctions.3_of_3.cpp.obj"
+"D:\UE - Projects\UE5.2\TestDoArmour 5.2\Plugins\HelpfulFunctions\Intermediate\Build\Win64\x64\UnrealEditor\Development\HelpfulFunctions\Default.rc2.res"
+/OUT:"D:\UE - Projects\UE5.2\TestDoArmour 5.2\Plugins\HelpfulFunctions\Intermediate\Build\Win64\x64\UnrealEditor\Development\HelpfulFunctions\UnrealEditor-HelpfulFunctions.lib"

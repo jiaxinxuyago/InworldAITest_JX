@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\ue - projects\\ue5.2\\iwals_gas_plugin\\plugins\\iwals_abilitysystem\\source\\iwals_abilitysystem\\private\\iwals_abilitysystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue - projects\\ue5.2\\iwals_gas_plugin\\intermediate\\build\\win64\\x64\\iwals_gas_plugineditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\ue - projects\\ue5.2\\iwals_gas_plugin\\plugins\\iwals_abilitysystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\iwals_abilitysystem\\definitions.iwals_abilitysystem.h",
+            "d:\\ue - projects\\ue5.2\\iwals_gas_plugin\\plugins\\iwals_abilitysystem\\source\\iwals_abilitysystem\\public\\iwals_abilitysystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Inworld\\InworldAITest\\Plugins\\HelpfulFunctions\\Source\\HelpfulFunctions\\HelpfulFunctions.Build.cs",
+		"D:\\Unreal Projects\\Inworld\\InworldAITest\\Plugins\\IWALS_AbilitySystem\\Source\\IWALS_AbilitySystem\\IWALS_AbilitySystem.Build.cs",
+		"D:\\Unreal Projects\\Inworld\\InworldAITest\\Plugins\\JakubAnimNodes\\Source\\JakubAnimNodesTool\\JakubAnimNodesTool.Build.cs",
+		"D:\\Unreal Projects\\Inworld\\InworldAITest\\Plugins\\JakubAnimNodes\\Source\\JakubAnimNodes\\JakubAnimNodes.Build.cs",
+		"D:\\Unreal Projects\\Inworld\\InworldAITest\\Plugins\\JakubCableComponent\\Source\\JakubCableComponent\\JakubCableComponent.Build.cs",
+		"D:\\Unreal Projects\\Inworld\\InworldAITest\\Intermediate\\Source\\Interaction_With_ALS.Build.cs",
+		"D:\\Unreal Projects\\Inworld\\InworldAITest\\Intermediate\\Source\\Interaction_With_ALS.Target.cs",
+		"D:\\Unreal Projects\\Inworld\\InworldAITest\\Intermediate\\Source\\Interaction_With_ALSClient.Target.cs",
+		"D:\\Unreal Projects\\Inworld\\InworldAITest\\Intermediate\\Source\\Interaction_With_ALSEditor.Target.cs",
+		"D:\\Unreal Projects\\Inworld\\InworldAITest\\Intermediate\\Source\\Interaction_With_ALSServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
